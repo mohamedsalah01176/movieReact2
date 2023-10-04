@@ -59,7 +59,7 @@ function App() {
               <Route path="/" element={<MoveList/>}/>
               <Route path="/movie/:id" element={<MoveDetails />}/>
               <Route path="/register/Register.jsx" element={<Register />}/>
-              <Route path="/login/Login.jsx" element={<Login />}/>
+              <Route path="Login" element={<Login />}/>
           </Routes>
         </HashRouter>
       </div>

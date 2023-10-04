@@ -1,0 +1,7 @@
+.nav{
+    transition: .5s;
+    &:hover{
+        transform: scale(1.2);
+        color:red
+    } 
+} 

@@ -1,0 +1,7 @@
+.nav {
+  transition: 0.5s;
+}
+.nav:hover {
+  transform: scale(1.2);
+  color: red;
+}/*# sourceMappingURL=Navbar.module.css.map */
